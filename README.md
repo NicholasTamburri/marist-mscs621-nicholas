@@ -1,7 +1,9 @@
 # marist-mscs621-nicholas
 ### Nicholas Tamburri - MSCS621 Cloud Computing
 
-This is the project Git repository. This project uses an IBM Cloud service to translate words between various languages. The app can be accessed at [this link](language-translator-env.vihuhsbm6k.us-west-2.elasticbeanstalk.com).
+(Note: I have taken this app down since the course has concluded.)
+
+This is the project Git repository. This project uses an IBM Cloud service to translate words between various languages. The app can be accessed at [this link](http://language-translator-env.vihuhsbm6k.us-west-2.elasticbeanstalk.com).
 
 The app is hosted on AWS Elastic Beanstalk and uses the Language Translator API from IBM Cloud. It is written in Python using the Flask web framework and the `watson-developer-cloud` Python module from IBM. The source code is located in the eb-docker-flask directory.
 
